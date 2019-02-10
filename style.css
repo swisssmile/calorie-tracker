@@ -1,0 +1,35 @@
+/* css quite challenging */
+body { background-color: #ffe6cc; }
+
+.navbar {
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: black
+}
+
+header {
+    background-image: 'images/logo.png';
+    text-align: center;
+}
+
+thead
+.badge-food {
+  background-color: yellow;
+  color: black;
+}
+.badge-calories {
+ background-color: lightgreen;
+ color: black
+}
+.badge-foodcategories {
+ background-color: lightblue;
+ color: black
+}
+.badge {
+  font-weight: bold;
+  font-size: 20px;
+}
